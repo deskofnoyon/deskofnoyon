@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://yt3.ggpht.com/wbLQYslS4lig2POtdUphqO7chRzIPDrTOvSqlbRWFTZFXB-3kDxQPcqRX1Fg7BgkGEPLWK2s=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" align="center" height="" width="" />
+<img src="https://yt3.googleusercontent.com/AC=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" align="center" height="" width="" />
 </div>  
   
 
-# <div  align="center">Code with Noyon</div> 
+# <div  align="center">Desk Of Noyon</div> 
  
 
  ## Languages and Tools  
@@ -31,13 +31,13 @@
 <a href="https://www.facebook.com/codewithnoyon" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/codewithnoyon" target="_blank">
+<a href="https://instagram.com/deskofnoyon" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/codewithnoyon" target="_blank">
+<a href="https://github.com/deskofnoyon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/c/codernoyon" target="_blank">
+<a href="https://www.youtube.com/@deskofnoyon" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>
