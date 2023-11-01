@@ -1,5 +1,5 @@
-# <div  align="center">Desk Of Noyon</div> 
- 
+### Desk Of Noyon
+Build Things for the Web 🌐
 
 ### Language and tools
 
@@ -9,18 +9,8 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://www.facebook.com/deskofnoyon" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/deskofnoyon" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/deskofnoyon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@deskofnoyon" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>
+## Connect with us 
+[![Facebook Badge](https://img.shields.io/badge/-deskofnoyon-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/deskofnoyon)](https://facebook.com/deskofnoyon)
+[![Instagram Badge](https://img.shields.io/badge/-deskofnoyon-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/deskofnoyon)](https://instagram.com/deskofnoyon) 
+[![Linkedin Badge](https://img.shields.io/badge/-deskofnoyon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deskofnoyon/)](https://www.linkedin.com/company/deskofnoyon/) 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deskofnoyon+github@gmail.com)](mailto:deskofnoyon+github@gmail.com)
