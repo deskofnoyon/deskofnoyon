@@ -1,6 +1,8 @@
 ### Desk Of Noyon
 Build Things for the Web 🌐
 
+![Banner Image](https://i.ibb.co/BPQnJ8m/github-cover.png)
+
 ### Language and tools
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,bootstrap,md,bash,vercel,netlify,postman,mongodb,figma,firebase)
