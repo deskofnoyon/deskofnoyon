@@ -1,5 +1,3 @@
-### Desk Of Noyon
-Build Things for the Web 🌐
 
 ![Banner Image](https://i.ibb.co/BPQnJ8m/github-cover.png)
 
