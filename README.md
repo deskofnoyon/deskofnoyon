@@ -8,15 +8,17 @@
 
 ### Language and tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,bootstrap,md,bash,vercel,netlify,postman,mongodb,figma,firebase)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,bootstrap,md,bash,powershell,vercel,netlify,postman,mongodb,figma,firebase,linux,docker)
 
 <br/>
+
+### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
 
-## Connect with us
+### Connect with us
 
 <div align="center" style='display:flex; justify-content: center; gap: 0 1px'>
   <a target="_blank" href="https://facebook.com/deskofnoyon">
