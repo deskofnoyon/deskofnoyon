@@ -15,11 +15,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Software engineer interns on their firstday be like 🙂](https://www.youtube.com/watch?v=5PcsLVE-vaY)
 - [This is my #GitHubUnwrapped! Get your own: https://githubunwrapped.com  #dofn #development](https://www.youtube.com/watch?v=gG0IgoyXSHU)
 - [Back-end Developer&#39;s Task &amp; Responsibilities #deskofnoyon #dofn #development #backend](https://www.youtube.com/watch?v=qjxdEBUB5AE)
 - [Back-end Development &amp; Back-end Developers Responsibilities | Desk of Noyon](https://www.youtube.com/watch?v=MYqZlcQYeqE)
 - [News Home Page Made Using HTML, CSS &amp; JavaScript](https://www.youtube.com/watch?v=uj4X2HQ7-10)
-- [News Letter Sign Up Component made using HTML, CSS &amp; JavaScript](https://www.youtube.com/watch?v=EdW43BRfUSA)
 <!-- YOUTUBE:END -->
 
 ### Connect with us
