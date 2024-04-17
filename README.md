@@ -15,11 +15,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a CAPTCHA Verification System with HTML, CSS, and JavaScript | Desk of Noyon](https://www.youtube.com/watch?v=dft7f39iBig)
 - [Build an OTP Generator HTML, CSS, JavaScript Tutorial | Desk of Noyon](https://www.youtube.com/watch?v=qca2ZR0Lxtw)
 - [Software engineer interns on their firstday be like 🙂](https://www.youtube.com/watch?v=5PcsLVE-vaY)
 - [This is my #GitHubUnwrapped! Get your own: https://githubunwrapped.com  #dofn #development](https://www.youtube.com/watch?v=gG0IgoyXSHU)
 - [Back-end Developer&#39;s Task &amp; Responsibilities #deskofnoyon #dofn #development #backend](https://www.youtube.com/watch?v=qjxdEBUB5AE)
-- [Back-end Development &amp; Back-end Developers Responsibilities | Desk of Noyon](https://www.youtube.com/watch?v=MYqZlcQYeqE)
 <!-- YOUTUBE:END -->
 
 ### Connect with us
